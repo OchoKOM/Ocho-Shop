@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OchoShop</string>
+    <string name="username">Maya OCHO</string>
+    <string name="profile">Profil</string>
+    <string name="add">Ajouter</string>
+    <string name="settings">Parametres</string>
+    <string name="favorite">Favoris</string>
+    <string name="home">Accueil</string>
+    <string name="welcome_on">Bienvenu sur</string>
+</resources>
